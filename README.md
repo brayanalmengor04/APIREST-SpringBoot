@@ -10,16 +10,6 @@ This project provides a RESTful API for managing movies. It includes the ability
 
 ## Table of Contents
 
-- [Features](#features)
-- [Endpoints](#endpoints)
-- [Dependencies](#dependencies)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Images](#images)
-
-## Features 
-
 ## Endpoints
 
 ### 2. Obtener Película por ID
